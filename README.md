@@ -1,5 +1,7 @@
 # RottenPotatoes
 
+![Foto da tela principal](assets_readme/Foto_Inicial.png)
+
 Aplicação web para um banco de dados de filmes, desenvolvido em Ruby on Rails. A implementação foi guiada pelo cap 4 do saasbook.
 
 ## Como foi implementado (seguindo instruções do livro)
