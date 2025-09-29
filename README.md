@@ -1,6 +1,7 @@
 # RottenPotatoes
 
 Aluno: João Magno Lourenço Soares
+
 Matrícula: 232038077
 
 ![Foto da tela principal](assets_readme/Foto_Inicial.png)
